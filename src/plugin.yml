@@ -29,9 +29,6 @@ permissions:
   autocraft.napalm:
     description: Access to napalm command.
     default: true
-  autocraft.scourge:
-    description: DOOOM.
-    default: false
   autocraft.pilot:
     description: Access to pilot command.
     default: true
@@ -41,3 +38,11 @@ permissions:
   autocraft.torpedo:
     description: Access to torpedo command.
     default: true
+  autocraft.scourge:
+    description: Access to scourge command.
+    default: false
+  autocraft.sTorpedo:
+    description: Access to scourge torpedo command.
+    default: false
+    
+  
